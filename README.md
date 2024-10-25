@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @gajeshladhar
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning AI/ML/NLP/CV
-- 💞️ I’m looking to collaborate on Artificial Intelligence
-- 📫 How to reach me gajeshladhar@gmail.com
+# 👋 Hi, I’m Gajesh
 
-<!---
-gajeshladhar/gajeshladhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **AI Engineer** | 🌍 **Earth Observation Specialist** | 🤖 **Computer Vision & ML Enthusiast**
+
+Welcome! I'm Gajesh, an AI engineer with 4+ years in **Computer Vision** and **Earth Observation (EO)**. My expertise includes **computer vison**, **earth observation**, **geospatial analytics**, **route optimization**, **super-resolution**, and **deep learning** to uncover insights from EO data. 🌐
+
+<br>
+
+## 🧩 What I Do
+
+- 🤖 **AI & Computer Vision**: Object Detection, Generative AI for EO Data, Feature Extraction, Deep Learning
+- 🌍 **Geospatial Data Science**: LULC Mapping, Crop Classification, Route Optimization, Building Footprint Analysis
+- ☁️ **Big Data & Cloud**: AWS/GCP, Dask, Xarray, Distributed Data Processing
+
