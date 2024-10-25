@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gajesh Ladhar
+# 👋 Hi, I’m Gajesh
 
 🔭 **AI Engineer** | 🌍 **Earth Observation Specialist** | 🤖 **Computer Vision & ML Enthusiast**
 
